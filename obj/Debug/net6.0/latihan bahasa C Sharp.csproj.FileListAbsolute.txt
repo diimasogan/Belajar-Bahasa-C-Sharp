@@ -1,0 +1,15 @@
+D:\Coding\latihan bahasa C Sharp\bin\Debug\net6.0\latihan bahasa C Sharp.exe
+D:\Coding\latihan bahasa C Sharp\bin\Debug\net6.0\latihan bahasa C Sharp.deps.json
+D:\Coding\latihan bahasa C Sharp\bin\Debug\net6.0\latihan bahasa C Sharp.runtimeconfig.json
+D:\Coding\latihan bahasa C Sharp\bin\Debug\net6.0\latihan bahasa C Sharp.dll
+D:\Coding\latihan bahasa C Sharp\bin\Debug\net6.0\ref\latihan bahasa C Sharp.dll
+D:\Coding\latihan bahasa C Sharp\bin\Debug\net6.0\latihan bahasa C Sharp.pdb
+D:\Coding\latihan bahasa C Sharp\obj\Debug\net6.0\latihan bahasa C Sharp.csproj.AssemblyReference.cache
+D:\Coding\latihan bahasa C Sharp\obj\Debug\net6.0\latihan bahasa C Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\latihan bahasa C Sharp\obj\Debug\net6.0\latihan bahasa C Sharp.AssemblyInfoInputs.cache
+D:\Coding\latihan bahasa C Sharp\obj\Debug\net6.0\latihan bahasa C Sharp.AssemblyInfo.cs
+D:\Coding\latihan bahasa C Sharp\obj\Debug\net6.0\latihan bahasa C Sharp.csproj.CoreCompileInputs.cache
+D:\Coding\latihan bahasa C Sharp\obj\Debug\net6.0\latihan bahasa C Sharp.dll
+D:\Coding\latihan bahasa C Sharp\obj\Debug\net6.0\ref\latihan bahasa C Sharp.dll
+D:\Coding\latihan bahasa C Sharp\obj\Debug\net6.0\latihan bahasa C Sharp.pdb
+D:\Coding\latihan bahasa C Sharp\obj\Debug\net6.0\latihan bahasa C Sharp.genruntimeconfig.cache
