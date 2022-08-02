@@ -34,12 +34,29 @@ namespace Program
 
             // Console.WriteLine(manusia.Name);
 
-            //manggil class motor dan brand motor latihan inheritance
-            Motor byson = new Motor("kuning",200);
-            Console.WriteLine(@"ini adalah brand motor " + byson.brand + " bewarna " + byson.color + 
-            " kecepatannya adalah " + byson.speed);
-            byson.brandMotto();
-        
+            // //manggil class motor dan brand motor latihan inheritance
+            // Motor byson = new Motor("kuning",200);
+            // Console.WriteLine(@"ini adalah brand motor " + byson.brand + " bewarna " + byson.color + 
+            // " kecepatannya adalah " + byson.speed);
+            // byson.brandMotto();
+
+            // //latihan polymorphysm dan abstracr dari class animal, dog, dan chicken
+            // Chicken ayam = new Chicken();
+            // Dog anjing = new Dog();
+
+            // ayam.animalSound();
+            // anjing.animalSound();
+
+        //     //latihan abstract dari class animal abstract dan dog abstract
+        //    DogAbstract anjingku = new DogAbstract();
+
+        //  anjingku2.animalSound();
+
+        //     anjingku.animalSound();
+        //     anjingku.sleep();
+
+                //latihan interface
+
         }
     }
 }
